@@ -46,7 +46,7 @@ This website serves as a personal portfolio showcasing my education, skills, int
 
 ## Screenshot Live Website
 
-![Website Screenshot](assets/images/ssweb.png)
+![Website Screenshot](assets/images/liveweb.png)
 
 ## Kontak
 
