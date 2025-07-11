@@ -19,12 +19,13 @@
                 <li><a href="#project">Project</a></li>
                 <li><a href="#contact">Contact</a></li>
             </ul>
+        </nav>
     </header>
 
     <aside class="profile">
         <table>
             <tr>
-                <td colspan="2" style="text-align: center;">
+                <td colspan="2">
                     <img src="assets/images/profile.jpg" alt="Profile Picture" width="200" height="200">
                 </td>
             </tr>
@@ -59,13 +60,48 @@
 
         <section id="about">
             <h1>About Me</h1>
-            <p>Welcome to my portfolio! Here you can learn more about me, my interests, and hobbies.</p>
+            <p>Hello! My name is <strong>Yous Markus Syalom Sibarani</strong>, a passionate student in the field of
+                <em>Software Engineering</em>. I have a strong interest in technology, especially in the areas of web
+                development, artificial intelligence, and data analysis.</p>
+
+            <h3>Education</h3>
+            <p>I am currently pursuing a Diploma IV (D4) program in <strong>Software Engineering (Teknologi Rekayasa
+                    Perangkat Lunak)</strong> at Politeknik Negeri Medan, and I am in my 8th semester.</p>
+
+            <h3>Work Experience</h3>
+            <ul>
+                <li>Internship at <strong>Kominfo</strong> – developed a web application as part of the internship
+                    project.</li>
+            </ul>
+
+            <h3>Skills</h3>
+            <ul>
+                <li>Programming Languages: HTML, CSS, JavaScript, Python</li>
+                <li>Frameworks: CodeIgniter</li>
+                <li>Tools: Git, VS Code, Figma</li>
+            </ul>
         </section>
 
         <section id="interest">
             <h2>My Interests</h2>
-            <p>I am passionate about technology, design, and innovation. I love exploring new ideas and learning new
-                skills.</p>
+            <p>I have a strong passion for technology and innovation. I enjoy exploring new tools, frameworks, and ideas
+                that can improve efficiency and creativity in development. Here are some of my key interests:</p>
+
+            <ul>
+                <li><strong>Artificial Intelligence:</strong> Especially in Natural Language Processing and Sentiment
+                    Analysis.</li>
+                <li><strong>Web Development:</strong> Building responsive and user-friendly web applications using
+                    modern frameworks.</li>
+                <li><strong>UI/UX Design:</strong> Creating clean, intuitive interfaces that enhance user experience.
+                </li>
+                <li><strong>Cybersecurity:</strong> Learning about digital threats and ethical hacking practices.</li>
+                <li><strong>Open Source Projects:</strong> Contributing to or learning from collaborative development
+                    environments.</li>
+                <li><strong>Gaming & Game Development:</strong> Following industry trends and experimenting with game
+                    mechanics.</li>
+            </ul>
+
+            <p>In addition, I love reading tech comics and playing video games.</p>
         </section>
 
         <section id="project">
@@ -80,8 +116,23 @@
 
         <section id="contact">
             <h2>Contact Me</h2>
-            <p>If you would like to get in touch, please reach out via email or connect with me on social media.</p>
+            <form action="submit_form.php" method="post" class="contact-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" required></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
         </section>
+
+        <footer>
+            <p>&copy; 2025 Yous Markus Syalom Sibarani. RevoU.</p>
+        </footer>
 </body>
 
 </html>
