@@ -40,6 +40,7 @@ This website serves as a personal portfolio showcasing my education, skills, int
 1. Clone or download this repository.
 2. Open `index.html` in your web browser.
 
+## Live Website
 ➡️ [https://revou-fsse-jun25.github.io/milestone-1-Yous1705/](https://revou-fsse-jun25.github.io/milestone-1-Yous1705/)
 
 ## Screenshot Live Website
