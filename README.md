@@ -32,7 +32,7 @@ This website serves as a personal portfolio showcasing my education, skills, int
 ## Technologies Used
 
 - HTML5
-- CSS3
+- CSS
 - VsCode
 
 ## How to Use
