@@ -12,6 +12,23 @@ This website serves as a personal portfolio showcasing my education, skills, int
 - Semantic HTML structure
 - Contact form with validation
 
+## Website Sections
+
+- **Home**  
+  A welcoming introduction that briefly describes who I am and what visitors can expect from this website.
+
+- **About Me**  
+  Detailed profile including my education, internship experience, and my technical skills
+
+- **Interests**  
+  A summary of my passions. I also mention my hobbies like reading comics and gaming.
+
+- **Projects**  
+  A list of sample projects I've worked on.
+
+- **Contact**  
+  A working HTML contact form where users can send their name, email, and message directly.
+
 ## Technologies Used
 
 - HTML5
