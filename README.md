@@ -44,9 +44,9 @@ This website serves as a personal portfolio showcasing my education, skills, int
 
 ➡️ [https://revou-fsse-jun25.github.io/milestone-1-Yous1705/](https://revou-fsse-jun25.github.io/milestone-1-Yous1705/)
 
-## Screenshot
+## Screenshot Live Website
 
-![Website Screenshot](assets/images/image.png)
+![Website Screenshot](assets/images/liveweb.png)
 
 ## Kontak
 
