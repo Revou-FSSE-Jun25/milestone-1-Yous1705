@@ -81,7 +81,7 @@ aside.profile {
   top: 8vh;
   left: 2vw;
   width: 18vw;
-  height: 90vh;
+  height: 85vh;
   background-color: #20232A;
   border-radius: 0.75rem;
   padding: 1.5rem;
@@ -299,9 +299,6 @@ ul.skill {
   flex-direction: column;
 }
 
-section:hover {
-  transform: translateY(-0.25rem);
-}
 
 ul {
   padding-left: 1rem;
@@ -523,7 +520,7 @@ footer {
   .work-experience {
     font-size: 1rem;
   }
-  
+
   .profile img {
     width: 50%;
   }
